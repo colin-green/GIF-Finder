@@ -97,8 +97,9 @@ function populateGIFs() {
           $("#gif-div").append(newDiv);
         }
         
-        // Setting functionality for clicking on the gifs
+        // When you click on a gif, toggle play/pause
         $(".gif").click(playPause);
+
       })
 
 }
