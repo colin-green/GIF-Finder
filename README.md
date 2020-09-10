@@ -1,1 +1,1 @@
-Page: https://colin-green.github.io/Giphy-API-Homework
+Page: https://colin-green.github.io/GIF-Finder
